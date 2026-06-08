@@ -31,9 +31,8 @@ actual work to keep that model current.
 - It is **processed** by four agents.
 - It is **consolidated** into one weekly source of truth everyone can pull from.
 
-> An interactive version of this diagram (with animated flow) lives at
-> [`diagrams/operating-system-flow.html`](diagrams/operating-system-flow.html).
-> Open it in a browser.
+> An interactive version of the operating system flow diagram
+> [`is available here`](https://matthieutnsc.github.io/cowork-control-tower/diagrams/operating-system-flow.html).
 
 ---
 
@@ -55,16 +54,13 @@ saved to the brain.**
 
 ## The sample dashboard
 
-[`dashboard/control-tower-dashboard-sample.html`](dashboard/control-tower-dashboard-sample.html)
-is a single self-contained file (open it in any browser). It is **fully sanitized**:
-real structure, completely invented placeholder data. Tabs cover Products, Projects,
+The [`Control Tower Dashboard (with sample data)`](https://matthieutnsc.github.io/cowork-control-tower/dashboard/control-tower-dashboard-sample.html)
+is a single self-contained file: real structure, with placeholder data. Tabs cover Products, Projects,
 Roadmap, Demands, Changes, Budget and Team, all rendered from one `DASHBOARD_DATA`
 object at the bottom of the file.
 
 To make it yours, edit that one object.
 
-> Tip: GitHub does not render HTML files in the browser. To preview the dashboard
-> without cloning, prefix the raw URL with a service like `htmlpreview.github.io`, or
 > just download the file and open it locally.
 
 ---
