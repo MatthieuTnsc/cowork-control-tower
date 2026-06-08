@@ -11,7 +11,7 @@ sanitized sample dashboard, and the workflow structure.
 
 Built and demoed in **Microsoft Copilot Cowork**.
 
-[Read Part 1](https://www.linkedin.com/posts/matthieutournesac_what-happens-when-you-offload-reporting-ugcPost-7467624247583027201-waBV/) &nbsp;·&nbsp; Read Part 2 _(link coming with the post)_
+[Read Part 1](https://www.linkedin.com/posts/matthieutournesac_what-happens-when-you-offload-reporting-ugcPost-7467624247583027201-waBV/) &nbsp;·&nbsp; [Read Part 2](https://www.linkedin.com/pulse/i-delegated-my-job-ai-agents-part-2-heres-exactly-how-tournesac-e7oye)
 
 </div>
 
@@ -32,7 +32,7 @@ actual work to keep that model current.
 - It is **consolidated** into one weekly source of truth everyone can pull from.
 
 > An interactive version of this diagram (with animated flow) lives at
-> [`diagrams/operating-system-flow-v2.html`](diagrams/operating-system-flow.html).
+> [`diagrams/operating-system-flow.html`](diagrams/operating-system-flow.html).
 > Open it in a browser.
 
 ---
